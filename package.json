@@ -1,0 +1,16 @@
+{
+  "name": "alchimy-nft",
+  "version": "0.0.1",
+  "description": "the test nft project",
+  "main": "index.js",
+  "author": "webdev917",
+  "license": "MIT",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.8",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@openzeppelin/contracts": "^4.3.3",
+    "dotenv": "^10.0.0",
+    "ethers": "5.0.0",
+    "hardhat": "^2.7.0"
+  }
+}
